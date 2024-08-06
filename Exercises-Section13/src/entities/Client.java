@@ -53,6 +53,6 @@ public class Client {
 	
 	
 	
-	//Client: Alex Green (15/03/1985) - alex@gmail.com
+	
 	
 }

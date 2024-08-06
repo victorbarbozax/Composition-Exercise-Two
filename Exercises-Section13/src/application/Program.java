@@ -64,7 +64,7 @@ public class Program {
 		System.out.println();
 		System.out.println("ORDER SUMMARY:");
 		System.out.println(order);
-		
+		System.out.println();
 		sc.close();
 	}
 }
